@@ -56,7 +56,7 @@ def getRepoCommit(repoOwner, repoName, commitSHA):
     response = r.json() 
     print(response)
 
-# getUser("karanikiotis")
+# getUser("AuthEceSofteng")
 # getUserRepos("AuthEceSofteng")
 # getRepoInfo("AuthEceSofteng", "emb-ntua-workshop")
 # getMostPopularRepositoriesInfos()
